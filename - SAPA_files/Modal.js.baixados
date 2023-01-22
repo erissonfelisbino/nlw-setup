@@ -1,0 +1,6 @@
+﻿ 
+     function expande() {
+         if (document.getElementById('divModal') !== null) {
+             document.getElementById('divModal').style.height = '100%';
+         }
+     }  
